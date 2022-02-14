@@ -1,0 +1,15 @@
+
+//  Localizable.strings
+//  Boost Cleaner
+
+//  Created by HABIB on 11/10/2021.
+//  Copyright © 2021 Fresh Brain. All rights reserved.
+
+"CFBundleDisplayName" = "Boost Cleaner";
+"NSCameraUsageDescription" = "Please allow access to your camera in order to take photos for private vault feature";
+"NSContactsUsageDescription" = "Please allow access to all contacts to find any duplicates while cleaning so you may clean them from your device.";
+"NSFaceIDUsageDescription" = "Please allow access to Biometric Authentication to enable application lock";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Please allow access to your location in order to check Speed Test functionality.";
+"NSLocationAlwaysUsageDescription" = "Please allow access to your location in order to check Speed Test functionality.";
+"NSLocationWhenInUseUsageDescription" = "Please allow access to your location in order to check Speed Test functionality.";
+"NSPhotoLibraryUsageDescription" = "Please allow access to all photos to find similar images while cleaning so you may clean them from your device.";

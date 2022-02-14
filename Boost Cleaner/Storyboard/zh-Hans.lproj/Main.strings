@@ -1,0 +1,561 @@
+
+/* Class = "UIButton"; normalTitle = "Move 0 to Trash"; ObjectID = "0Ch-cH-1gu"; */
+"0Ch-cH-1gu.normalTitle" = "0项移入垃圾箱"; // "Move 0 to Trash";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "0aP-IZ-7fE"; */
+"0aP-IZ-7fE.text" = "0%";
+
+/* Class = "UILabel"; text = "Large size videos"; ObjectID = "11H-j5-DH6"; */
+"11H-j5-DH6.text" = "大尺寸视频";
+
+/* Class = "UILabel"; text = "Unnamed contact "; ObjectID = "1Je-3H-y7g"; */
+"1Je-3H-y7g.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "Unnamed contact"; ObjectID = "1gU-ds-bXj"; */
+"1gU-ds-bXj.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1mL-oy-lTI"; */
+"1mL-oy-lTI.text" = "Label";
+
+/* Class = "UILabel"; text = "0 GB"; ObjectID = "1ov-9e-pTf"; */
+"1ov-9e-pTf.text" = "0 GB";
+
+/* Class = "UILabel"; text = "June"; ObjectID = "3OL-PB-jcg"; */
+"3OL-PB-jcg.text" = "June";
+
+/* Class = "UILabel"; text = "Unnamed contact "; ObjectID = "3lf-UH-CHV"; */
+"3lf-UH-CHV.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "Do you want to calculate storage size that can be cleaned up? Calculating Size will increase the processing time."; ObjectID = "42r-ET-rnJ"; */
+"42r-ET-rnJ.text" = "要计算可以清理的存储大小吗？计算大小会增加处理时间。";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "43P-cE-4TI"; */
+"43P-cE-4TI.text" = "0 项目";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "4FN-jS-gIE"; */
+"4FN-jS-gIE.text" = "0 项目";
+
+/* Class = "UILabel"; text = "Screenshots"; ObjectID = "4GP-3F-Jys"; */
+"4GP-3F-Jys.text" = "屏幕截图";
+
+/* Class = "UIButton"; normalTitle = "Keep All"; ObjectID = "4LT-hv-ck1"; */
+"4LT-hv-ck1.normalTitle" = "全部保留";
+
+/* Class = "UILabel"; text = "0 photos"; ObjectID = "519-ja-XAE"; */
+"519-ja-XAE.text" = "0 相片";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "5Yz-2D-4fc"; */
+"5Yz-2D-4fc.text" = "0 项目";
+
+/* Class = "UIButton"; normalTitle = "Don't Allow"; ObjectID = "5bS-kS-dGJ"; */
+"5bS-kS-dGJ.normalTitle" = "不同意";
+
+/* Class = "UILabel"; text = "AB"; ObjectID = "65D-GU-o12"; */
+"65D-GU-o12.text" = "AB";
+
+/* Class = "UIButton"; normalTitle = "Keep All"; ObjectID = "66N-wA-Aw2"; */
+"66N-wA-Aw2.normalTitle" = "全部保留";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "69Y-Lr-IB6"; */
+"69Y-Lr-IB6.text" = "0 项目";
+
+/* Class = "UIButton"; normalTitle = "DELETE SELECTED (0)"; ObjectID = "6lD-6p-B2P"; */
+"6lD-6p-B2P.normalTitle" = "删除所选 (0)";
+
+/* Class = "UILabel"; text = "Auto-Backup"; ObjectID = "6ru-3f-ncg"; */
+"6ru-3f-ncg.text" = "自动备份";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "70B-UF-Nww"; */
+"70B-UF-Nww.text" = "0 项目";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "7eh-z6-Avu"; */
+"7eh-z6-Avu.text" = "0 项目";
+
+/* Class = "UILabel"; text = "Unnamed contact "; ObjectID = "81f-rf-VLy"; */
+"81f-rf-VLy.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "100-500 MB"; ObjectID = "9Qf-d3-hLK"; */
+"9Qf-d3-hLK.text" = "100-500 MB";
+
+/* Class = "UILabel"; text = "View All"; ObjectID = "9dw-FV-ddo"; */
+"9dw-FV-ddo.text" = "查看全部";
+
+/* Class = "UILabel"; text = "Unnamed contact "; ObjectID = "A0X-A6-r2R"; */
+"A0X-A6-r2R.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "AZz-69-xsj"; */
+"AZz-69-xsj.text" = "0%";
+
+/* Class = "UILabel"; text = "Duplicates"; ObjectID = "AeA-18-Nxs"; */
+"AeA-18-Nxs.text" = "重复照片";
+
+/* Class = "UILabel"; text = "This application only backup your contact in this device, if you delete this application you will the lost all backup. But you can send this backup to your storage to save it before deleting the applicaiton."; ObjectID = "BIM-A7-zVC"; */
+"BIM-A7-zVC.text" = "此应用程序仅备份您在此设备中的联系人，如果您删除此应用程序，您将丢失所有备份。但您可以将此备份发送到您的存储以保存它，然后再删除该应用程序。";
+
+/* Class = "UIButton"; normalTitle = "DELETE SELECTED (0)"; ObjectID = "BU0-IB-32h"; */
+"BU0-IB-32h.normalTitle" = "删除所选 (0)";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "BeX-nI-swS"; */
+"BeX-nI-swS.text" = "电子邮件";
+
+/* Class = "UILabel"; text = "100-500 MB"; ObjectID = "Cgv-5Y-iHZ"; */
+"Cgv-5Y-iHZ.text" = "100-500 MB";
+
+/* Class = "UILabel"; text = "Location Service Disabled"; ObjectID = "D3O-nx-iGb"; */
+"D3O-nx-iGb.text" = "定位服务已禁用";
+
+/* Class = "UILabel"; text = "Missing Information"; ObjectID = "D6g-Zo-g41"; */
+"D6g-Zo-g41.text" = "缺失信息";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "D7W-FN-OKs"; */
+"D7W-FN-OKs.text" = "0%";
+
+/* Class = "UIButton"; normalTitle = "DELETE DUPLICATE"; ObjectID = "Dp1-3E-xDZ"; */
+"Dp1-3E-xDZ.normalTitle" = "删除重复";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "E0a-Rl-6sw"; */
+"E0a-Rl-6sw.text" = "0%";
+
+/* Class = "UIButton"; normalTitle = "OPEN SETTINGS"; ObjectID = "E6p-D1-zbz"; */
+"E6p-D1-zbz.normalTitle" = "打开系统设置";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "EIf-b1-tc2"; */
+"EIf-b1-tc2.text" = "0 项目";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "Eif-Xb-8Wl"; */
+"Eif-Xb-8Wl.text" = "0%";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "F1a-H7-Jz4"; */
+"F1a-H7-Jz4.text" = "0 项目";
+
+/* Class = "UILabel"; text = "from all of your devices."; ObjectID = "FQO-0y-cvE"; */
+"FQO-0y-cvE.text" = "来自你所有的设备。";
+
+/* Class = "UIButton"; normalTitle = "Select all"; ObjectID = "FlQ-TI-qBe"; */
+"FlQ-TI-qBe.normalTitle" = "全选";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "FqO-Jj-ufi"; */
+"FqO-Jj-ufi.text" = "电子邮件";
+
+/* Class = "UILabel"; text = "Similar Photos"; ObjectID = "G3A-9I-baV"; */
+"G3A-9I-baV.text" = "相似照片";
+
+/* Class = "UILabel"; text = "Contacts"; ObjectID = "G63-sN-vSS"; */
+"G63-sN-vSS.text" = "联系人";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "GfH-fM-pyY"; */
+"GfH-fM-pyY.text" = "0%";
+
+/* Class = "UILabel"; text = "CLEANER"; ObjectID = "Gh4-px-Sr0"; */
+"Gh4-px-Sr0.text" = "清理工具";
+
+/* Class = "UILabel"; text = "AB"; ObjectID = "GvA-VW-kpN"; */
+"GvA-VW-kpN.text" = "AB";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "H4J-lB-HEC"; */
+"H4J-lB-HEC.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "H53-eF-Jfc"; */
+"H53-eF-Jfc.normalTitle" = "删除";
+
+/* Class = "UILabel"; text = "turn on Location Service for this app."; ObjectID = "HIQ-cw-0Cl"; */
+"HIQ-cw-0Cl.text" = "为此应用开启定位服务。";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "HPp-zr-voW"; */
+"HPp-zr-voW.text" = "0 项目";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HVw-G9-lkc"; */
+"HVw-G9-lkc.normalTitle" = "结果历史";
+
+/* Class = "UILabel"; text = "Protection is                                                       enabled"; ObjectID = "Hba-hd-pE5"; */
+"Hba-hd-pE5.text" = "打开系统设置";
+
+/* Class = "UILabel"; text = "Select Contacts to Merge"; ObjectID = "IUJ-lx-Vrb"; */
+"IUJ-lx-Vrb.text" = "选择联系人合并";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "IWb-jX-Jlz"; */
+"IWb-jX-Jlz.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "AUTO MERGE CONTACTS (0)"; ObjectID = "JSh-ZV-aQ9"; */
+"JSh-ZV-aQ9.normalTitle" = "自动合并联系人 (0)";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "JlD-4e-W5b"; */
+"JlD-4e-W5b.text" = "0 项目";
+
+/* Class = "UILabel"; text = "Unnamed contact "; ObjectID = "K9D-fx-fnd"; */
+"K9D-fx-fnd.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "Select All"; ObjectID = "K9p-ap-G2z"; */
+"K9p-ap-G2z.text" = "全选";
+
+/* Class = "UILabel"; text = "Unnamed contact"; ObjectID = "KGV-3P-M0s"; */
+"KGV-3P-M0s.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "2020 • 124 photos"; ObjectID = "KP5-zP-ndx"; */
+"KP5-zP-ndx.text" = "2020 • 124 相片";
+
+/* Class = "UILabel"; text = "Select All"; ObjectID = "KWx-j9-Mbr"; */
+"KWx-j9-Mbr.text" = "全选";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "LKg-jE-D3o"; */
+"LKg-jE-D3o.text" = "0%";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "LPl-Fm-k11"; */
+"LPl-Fm-k11.text" = "0 项目";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "LT7-X4-u3V"; */
+"LT7-X4-u3V.text" = "0 项目";
+
+/* Class = "UIButton"; normalTitle = "AUTO MERGE CONTACTS (0)"; ObjectID = "MGV-ss-8lk"; */
+"MGV-ss-8lk.normalTitle" = "自动合并联系人 (0)";
+
+/* Class = "UIButton"; normalTitle = "COMPRESS ALL"; ObjectID = "Mcx-yw-LUw"; */
+"Mcx-yw-LUw.normalTitle" = "压缩所有";
+
+/* Class = "UIButton"; normalTitle = "DELETE DUPLICATE"; ObjectID = "N2v-w0-GdI"; */
+"N2v-w0-GdI.normalTitle" = "删除重复";
+
+/* Class = "UILabel"; text = "These contacts will be deleted "; ObjectID = "N7g-WN-0S5"; */
+"N7g-WN-0S5.text" = "这些联系人将被删除";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "NRM-Su-gx2"; */
+"NRM-Su-gx2.text" = "0 项目";
+
+/* Class = "UILabel"; text = "AB"; ObjectID = "NTK-mD-RgK"; */
+"NTK-mD-RgK.text" = "AB";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "NVj-Vc-01y"; */
+"NVj-Vc-01y.text" = "0 项目";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OMw-Ef-M6j"; */
+"OMw-Ef-M6j.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Don't Allow"; ObjectID = "Of4-Ep-eEj"; */
+"Of4-Ep-eEj.normalTitle" = "不同意";
+
+/* Class = "UILabel"; text = "0 items • 0 GB"; ObjectID = "P9i-TG-ub4"; */
+"P9i-TG-ub4.text" = "0 项目 • 0 GB";
+
+/* Class = "UILabel"; text = "Videos"; ObjectID = "PWF-bN-Ppk"; */
+"PWF-bN-Ppk.text" = "视频";
+
+/* Class = "UILabel"; text = "0 items • 0 GB"; ObjectID = "Q3G-MI-Wdd"; */
+"Q3G-MI-Wdd.text" = "0 项目 • 0 GB";
+
+/* Class = "UILabel"; text = "AB"; ObjectID = "Q9M-H1-0tU"; */
+"Q9M-H1-0tU.text" = "AB";
+
+/* Class = "UILabel"; text = "Similar Videos"; ObjectID = "Qow-A4-Jvu"; */
+"Qow-A4-Jvu.text" = "相似视频";
+
+/* Class = "UILabel"; text = "delete 4 contacts?"; ObjectID = "ROE-Gj-Kqu"; */
+"ROE-Gj-Kqu.text" = "delete 4 contacts?";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "RRY-TC-EmD"; */
+"RRY-TC-EmD.normalTitle" = "是的";
+
+/* Class = "UILabel"; text = "Allow “Boost Cleaner” to "; ObjectID = "RVJ-Qr-lJV"; */
+"RVJ-Qr-lJV.text" = "允许“Boost Cleaner”到";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RaS-Ul-P10"; */
+"RaS-Ul-P10.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "DELETE DUPLICATE"; ObjectID = "Ral-FB-b0t"; */
+"Ral-FB-b0t.normalTitle" = "删除重复";
+
+/* Class = "UILabel"; text = "0 videos"; ObjectID = "ReH-3z-83J"; */
+"ReH-3z-83J.text" = "0 视频";
+
+/* Class = "UIButton"; normalTitle = "COMPRESS ALL"; ObjectID = "Rs1-jR-A4I"; */
+"Rs1-jR-A4I.normalTitle" = "压缩所有";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "Rxo-ua-8Eq"; */
+"Rxo-ua-8Eq.text" = "电话";
+
+/* Class = "UILabel"; text = "Unnamed contact"; ObjectID = "SIA-mp-jhU"; */
+"SIA-mp-jhU.text" = "无名联系人";
+
+/* Class = "UIButton"; normalTitle = "Move 0 to Trash"; ObjectID = "SPy-OX-R70"; */
+"SPy-OX-R70.normalTitle" = "0项移入垃圾箱";//"Move 0 to Trash";
+
+/* Class = "UILabel"; text = "AD BLOCK"; ObjectID = "SQ6-Ev-lNd"; */
+"SQ6-Ev-lNd.text" = "屏蔽广告";
+
+/* Class = "UIButton"; normalTitle = "MERGE SELECTED (0)"; ObjectID = "SbZ-fI-jre"; */
+"SbZ-fI-jre.normalTitle" = "合并已选 (0)";
+
+/* Class = "UILabel"; text = "To re-enable, please go to Settings and "; ObjectID = "TIm-Rg-sB0"; */
+"TIm-Rg-sB0.text" = "要重新启用，请转到设置和";
+
+/* Class = "UILabel"; text = "0 %"; ObjectID = "Tfg-fm-1oR"; */
+"Tfg-fm-1oR.text" = "0 %";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "TuG-nU-piS"; */
+"TuG-nU-piS.normalTitle" = "不";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "U3d-cx-OgF"; */
+"U3d-cx-OgF.text" = "0 项目";
+
+/* Class = "UILabel"; text = "Similar"; ObjectID = "UAW-js-uAZ"; */
+"UAW-js-uAZ.text" = "张相似";
+
+/* Class = "UILabel"; text = "AB"; ObjectID = "UVV-v3-cNv"; */
+"UVV-v3-cNv.text" = "AB";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "WuY-A8-RwK"; */
+"WuY-A8-RwK.text" = "0%";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "Wx9-tx-o5B"; */
+"Wx9-tx-o5B.text" = "0%";
+
+/* Class = "UILabel"; text = "Select Contacts to Merge"; ObjectID = "XdI-Vz-V4p"; */
+"XdI-Vz-V4p.text" = "选择联系人合并";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "ZOV-g5-k5X"; */
+"ZOV-g5-k5X.text" = "0%";
+
+/* Class = "UIButton"; normalTitle = "Move 0 to Trash"; ObjectID = "ZOf-hu-Vsa"; */
+"ZOf-hu-Vsa.normalTitle" = "0项移入垃圾箱";//"Move 0 to Trash";
+
+/* Class = "UILabel"; text = "Unnamed contact"; ObjectID = "abm-qK-d5U"; */
+"abm-qK-d5U.text" = "Unnamed contact";
+
+/* Class = "UILabel"; text = "0 photos"; ObjectID = "b8P-wZ-iui"; */
+"b8P-wZ-iui.text" = "0 相片";
+
+/* Class = "UILabel"; text = "CLEANER"; ObjectID = "bCt-6h-S5x"; */
+"bCt-6h-S5x.text" = "清理工具";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "bIt-oN-5V6"; */
+"bIt-oN-5V6.normalTitle" = "设置";
+
+/* Class = "UILabel"; text = "100-500 MB"; ObjectID = "bLh-ud-6un"; */
+"bLh-ud-6un.text" = "100-500 MB";
+
+/* Class = "UIButton"; normalTitle = "COMPRESS ALL"; ObjectID = "bNU-EA-Awz"; */
+"bNU-EA-Awz.normalTitle" = "压缩所有";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "bQE-GS-jNA"; */
+"bQE-GS-jNA.text" = "0%";
+
+/* Class = "UILabel"; text = "Selfie"; ObjectID = "bff-ni-llc"; */
+"bff-ni-llc.text" = "自拍";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "bhb-Gs-KbB"; */
+"bhb-Gs-KbB.text" = "0%";
+
+/* Class = "UILabel"; text = "0 videos"; ObjectID = "bi2-Ju-CLt"; */
+"bi2-Ju-CLt.text" = "0 视频";
+
+/* Class = "UIButton"; normalTitle = "Select all"; ObjectID = "coR-9T-B8F"; */
+"coR-9T-B8F.normalTitle" = "全选";
+
+/* Class = "UILabel"; text = "AB"; ObjectID = "cvH-Qw-EI1"; */
+"cvH-Qw-EI1.text" = "AB";
+
+/* Class = "UILabel"; text = "EJECTOR"; ObjectID = "d6s-o1-DQE"; */
+"d6s-o1-DQE.text" = "喷射器";
+
+/* Class = "UILabel"; text = "Unnamed contact "; ObjectID = "ebo-B1-lwP"; */
+"ebo-B1-lwP.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "Duplicates"; ObjectID = "en6-mp-nXS"; */
+"en6-mp-nXS.text" = "重复联系人";
+
+/* Class = "UILabel"; text = "0 photos"; ObjectID = "eny-wy-hQt"; */
+"eny-wy-hQt.text" = "0 相片";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fAJ-lK-MrK"; */
+"fAJ-lK-MrK.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "CLEAR ALL (0 GB)"; ObjectID = "fP3-lF-7Rq"; */
+"fP3-lF-7Rq.normalTitle" = "全部清理 (0 GB)";
+
+/* Class = "UILabel"; text = "Merged Contact"; ObjectID = "fRi-aa-oWZ"; */
+"fRi-aa-oWZ.text" = "已合并联系人";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "fVW-oR-nzO"; */
+"fVW-oR-nzO.text" = "0 项目";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fYG-nF-oo4"; */
+"fYG-nF-oo4.text" = "0";
+
+/* Class = "UILabel"; text = "How To Disable"; ObjectID = "faA-98-Oe1"; */
+"faA-98-Oe1.text" = "如何禁用";
+
+/* Class = "UIButton"; normalTitle = "Allow"; ObjectID = "gSc-AS-Cib"; */
+"gSc-AS-Cib.normalTitle" = "允许";
+
+/* Class = "UILabel"; text = "Unnamed contact"; ObjectID = "gt6-Lb-ssI"; */
+"gt6-Lb-ssI.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "SPEED TEST"; ObjectID = "gtS-BY-zuC"; */
+"gtS-BY-zuC.text" = "测速";
+
+/* Class = "UILabel"; text = "Select All"; ObjectID = "h39-rS-0bk"; */
+"h39-rS-0bk.text" = "全选";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "h8T-eM-McP"; */
+"h8T-eM-McP.text" = "0%";
+
+/* Class = "UILabel"; text = "Show Size"; ObjectID = "hRB-Ic-rua"; */
+"hRB-Ic-rua.text" = "显示尺寸";
+
+/* Class = "UIButton"; normalTitle = "MERGE SELECTED (0)"; ObjectID = "hae-SB-Kec"; */
+"hae-SB-Kec.normalTitle" = "合并已选 (0)";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "hie-JD-gFt"; */
+"hie-JD-gFt.text" = "0 项目";
+
+/* Class = "UILabel"; text = "Go to Settings"; ObjectID = "hna-C3-vdr"; */
+"hna-C3-vdr.text" = "前往设置";
+
+/* Class = "UILabel"; text = "Photos"; ObjectID = "iGV-e3-iiM"; */
+"iGV-e3-iiM.text" = "相册";
+
+/* Class = "UILabel"; text = "Your storage"; ObjectID = "iQD-ZK-Dti"; */
+"iQD-ZK-Dti.text" = "已用内存";
+
+/* Class = "UILabel"; text = "Similar"; ObjectID = "jBg-p3-0Lf"; */
+"jBg-p3-0Lf.text" = "张相似";
+
+/* Class = "UILabel"; text = "Merged Contact"; ObjectID = "jH1-5C-Xmv"; */
+"jH1-5C-Xmv.text" = "已合并联系人";
+
+/* Class = "UILabel"; text = "Select Contacts to Merge"; ObjectID = "jXI-9R-h16"; */
+"jXI-9R-h16.text" = "选择联系人合并";
+
+/* Class = "UILabel"; text = "Select Content Blockers"; ObjectID = "jdn-c9-SQs"; */
+"jdn-c9-SQs.text" = "选择内容拦截器";
+
+/* Class = "UILabel"; text = "June"; ObjectID = "jxO-pt-GMK"; */
+"jxO-pt-GMK.text" = "June";
+
+/* Class = "UILabel"; text = "0 photos"; ObjectID = "k0S-YM-1op"; */
+"k0S-YM-1op.text" = "0 相片";
+
+/* Class = "UILabel"; text = "Finding Similar"; ObjectID = "k1L-pq-bvr"; */
+"k1L-pq-bvr.text" = "寻找相似";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "khd-31-uoz"; */
+"khd-31-uoz.text" = "0 项目";
+
+/* Class = "UIButton"; normalTitle = "DELETE SELECTED (0)"; ObjectID = "lL1-OO-he2"; */
+"lL1-OO-he2.normalTitle" = "删除所选 (0)";
+
+/* Class = "UILabel"; text = "SPEED TEST"; ObjectID = "lkW-a0-nTM"; */
+"lkW-a0-nTM.text" = "测速";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "loR-5L-ZJo"; */
+"loR-5L-ZJo.text" = "姓名";
+
+/* Class = "UIButton"; normalTitle = "Select all"; ObjectID = "lpd-tf-Vqr"; */
+"lpd-tf-Vqr.normalTitle" = "全选";
+
+/* Class = "UILabel"; text = "All Contacts"; ObjectID = "lz5-dR-loA"; */
+"lz5-dR-loA.text" = "所有联系人";
+
+/* Class = "UILabel"; text = "Tap Safari"; ObjectID = "m3d-Ms-WEt"; */
+"m3d-Ms-WEt.text" = "点击 Safari";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "mf6-z9-1bk"; */
+"mf6-z9-1bk.text" = "姓名";
+
+/* Class = "UIButton"; normalTitle = "MERGE SELECTED (0)"; ObjectID = "mz7-ey-osr"; */
+"mz7-ey-osr.normalTitle" = "合并已选 (0)";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "nIh-B8-1rj"; */
+"nIh-B8-1rj.text" = "0%";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "nRD-LJ-8pK"; */
+"nRD-LJ-8pK.text" = "0 项目";
+
+/* Class = "UILabel"; text = "0 photos"; ObjectID = "o4l-e9-g9h"; */
+"o4l-e9-g9h.text" = "0 相片";
+
+/* Class = "UILabel"; text = "Disable Ad Blocker"; ObjectID = "oSw-Qn-gOZ"; */
+"oSw-Qn-gOZ.text" = "禁用广告拦截器";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "od5-4C-gqd"; */
+"od5-4C-gqd.text" = "0 项目";
+
+/* Class = "UILabel"; text = "View All"; ObjectID = "onH-E5-rkC"; */
+"onH-E5-rkC.text" = "查看全部";
+
+/* Class = "UILabel"; text = "All"; ObjectID = "pde-ez-ohz"; */
+"pde-ez-ohz.text" = "全部";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "rKf-ef-Gsk"; */
+"rKf-ef-Gsk.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "sng-RC-7cL"; */
+"sng-RC-7cL.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "COMPRESS ALL"; ObjectID = "suP-4A-w8q"; */
+"suP-4A-w8q.normalTitle" = "压缩所有";
+
+/* Class = "UILabel"; text = "Unnamed contact"; ObjectID = "tsP-N0-td0"; */
+"tsP-N0-td0.text" = "无名联系人";
+
+/* Class = "UILabel"; text = "2020 • 124 photos"; ObjectID = "twd-x1-VFf"; */
+"twd-x1-VFf.text" = "2020 • 124 相片";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "uJA-Y0-hkF"; */
+"uJA-Y0-hkF.text" = "0%";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "uX1-zX-BnI"; */
+"uX1-zX-BnI.text" = "0 项目";
+
+/* Class = "UILabel"; text = "Step 1 of 3"; ObjectID = "ur5-XY-aGN"; */
+"ur5-XY-aGN.text" = "Step 1 of 3";
+
+/* Class = "UILabel"; text = "Live"; ObjectID = "vSE-Hs-vyk"; */
+"vSE-Hs-vyk.text" = "居住";
+
+/* Class = "UIButton"; normalTitle = "DELETE SELECTED (0)"; ObjectID = "vis-Zv-f7f"; */
+"vis-Zv-f7f.normalTitle" = "删除所选 (0)";
+
+/* Class = "UIButton"; normalTitle = "DELETE SELECTED (0)"; ObjectID = "w44-qI-h6U"; */
+"w44-qI-h6U.normalTitle" = "删除所选 (0)";
+
+/* Class = "UILabel"; text = "Safari content blocking"; ObjectID = "w94-9a-gRW"; */
+"w94-9a-gRW.text" = "Safari 内容阻止";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "wRB-75-6b1"; */
+"wRB-75-6b1.text" = "0%";
+
+/* Class = "UIButton"; normalTitle = "COMPRESS ALL"; ObjectID = "wUh-ay-cj0"; */
+"wUh-ay-cj0.normalTitle" = "压缩所有";
+
+/* Class = "UILabel"; text = "Looking for similar videos"; ObjectID = "wmf-4g-lgr"; */
+"wmf-4g-lgr.text" = "查找相似视频";
+
+/* Class = "UIButton"; normalTitle = "DELETE SELECTED (0)"; ObjectID = "wvV-7I-6c8"; */
+"wvV-7I-6c8.normalTitle" = "删除所选 (0)";
+
+/* Class = "UILabel"; text = "Merged Contact"; ObjectID = "x4l-Dp-Y8S"; */
+"x4l-Dp-Y8S.text" = "已合并联系人";
+
+/* Class = "UIButton"; normalTitle = "DELETE SELECTED (0)"; ObjectID = "xQz-w2-qAc"; */
+"xQz-w2-qAc.normalTitle" = "删除所选 (0)";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "xay-yj-XGe"; */
+"xay-yj-XGe.text" = "电话";
+
+/* Class = "UILabel"; text = "0 videos"; ObjectID = "yGS-YN-kCy"; */
+"yGS-YN-kCy.text" = "0 视频";
+
+/* Class = "UIButton"; normalTitle = "Keep All"; ObjectID = "yZ6-gc-aOF"; */
+"yZ6-gc-aOF.normalTitle" = "全部保留";
+
+/* Class = "UILabel"; text = "AD BLOCK"; ObjectID = "z8w-YZ-wYJ"; */
+"z8w-YZ-wYJ.text" = "屏蔽广告";
+
+/* Class = "UILabel"; text = "Turn on                                               Ad Blocker"; ObjectID = "zCj-3l-jgX"; */
+"zCj-3l-jgX.text" = "打开屏蔽广告功能";
+
+/* Class = "UILabel"; text = "Screenshots"; ObjectID = "zRE-aj-cp7"; */
+"zRE-aj-cp7.text" = "屏幕截图";
+
+/* Class = "UILabel"; text = "0 items"; ObjectID = "zlE-5X-Gd9"; */
+"zlE-5X-Gd9.text" = "0 项目";

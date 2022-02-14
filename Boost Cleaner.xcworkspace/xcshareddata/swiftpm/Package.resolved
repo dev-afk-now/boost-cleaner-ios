@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Amplitude",
+        "repositoryURL": "https://github.com/amplitude/Amplitude-iOS",
+        "state": {
+          "branch": null,
+          "revision": "b8a0d51fd414db206050ac83806795a8fab6f447",
+          "version": "8.7.1"
+        }
+      },
+      {
+        "package": "AppsFlyerLib",
+        "repositoryURL": "https://github.com/AppsFlyerSDK/AppsFlyerFramework",
+        "state": {
+          "branch": null,
+          "revision": "9422a8e690a390c58e1ebc4cc5433026f710f21c",
+          "version": "6.5.1"
+        }
+      },
+      {
+        "package": "Facebook",
+        "repositoryURL": "https://github.com/facebook/facebook-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "d22dbb4c7065fd00d2c037415f927921dfffceee",
+          "version": "12.2.1"
+        }
+      },
+      {
+        "package": "Purchases",
+        "repositoryURL": "https://github.com/RevenueCat/purchases-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "54247bc5e924cc36b75799bd20dd895a2d919aae",
+          "version": "3.13.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

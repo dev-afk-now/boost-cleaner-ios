@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Muli-Regular.ttf">
+            <string>Muli-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TermsViewController" customModule="Boost_Cleaner" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="quu-SI-cHL">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <string key="text">Terms of Service
+
+The following Terms of Use and End User License Agreement (“EULA”) constitute an agreement between you (“You”) and Sharp Forks LTD, 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ (“Application Provider”), governing the use of the software applications downloaded through Apple App Store (the “Licensed Application(s)”) published by Sharp Forks LTD. Questions, complaints or claims with respect to the Licensed Application should be directed to sharpforksltd@gmail.com
+
+You acknowledge and accept that (i) the previsions of this EULA shall not be deemed to set an agreement between You and Apple (or its subsidiaries) in any manner whatsoever and (ii) Apple and its subsidiaries are third party beneficiaries of this EULA, therefore Apple and its subsidiaries shall have the right and are deemed to have accepted the right to enforce this EULA against You as a third party beneficiary thereof.
+Please consider that the Licensed Application are licensed, not sold, to You for use only under the terms of this EULA, unless the same are accompanied by a different license agreement, in which case the terms of that different license agreement will govern the relationship between You and the Application Provider, subject to Your prior acceptance of that separate license agreement. The Application Provider reserves all rights not expressly granted to You hereinafter.
+Application Provider may update the Licensed Application and/or the Services and/or this EULA from time to time in response to changing legal, technical or business developments. In such a case, Application Provider will take appropriate measures to inform You via the Licensed Application or the Services or otherwise, in accordance with the significance of the changes Application Provider makes. By continuing to access or use the Licensed Application and/or Services after updates become effective, You agree to be bound by the updated EULA.
+
+a. Scope of License
+
+According to this EULA, the Application Provider grants you with a non-transferable license to use for personal and non-commercial use the Licensed Application on any Apple iOS device that You own or control and in accordance with all applicable laws and Apple’s Usage Rules. This license does not allow You to use the Licensed Application on any Apple iOS device that You do not own or control.
+You may not distribute or make the Licensed Application available over a network where it could be used by multiple devices at the same time, except that such Licensed Application may be accessed and used by other accounts associated with You via Apple Family Sharing.
+You may not rent, lease, lend, sell, redistribute or sublicense the Licensed Application. You may not copy (except as expressly permitted by this license and Apple’s Usage Rules), decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Licensed Application, any updates, or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by the licensing terms governing use of any open sourced components included with the Licensed Application). Any attempt to do so is a violation of the rights of the Application Provider and its licensors, if any. If You breach this restriction, You may be subject to prosecution and damages. The terms of the license will govern any upgrades provided by Application Provider that replace and/or supplement the Licensed Application, unless such upgrade is accompanied by a separate license, in which case the terms of that license shall prevail over this EULA.
+You acknowledge and accept to comply with applicable third party terms of agreement related to the use of the Licensed Application.
+The license covers all Apps published by Sharp Forks LTD.
+
+b. Consent to Use of Data
+
+You agree that Application Provider may collect and use technical data and related information, including but not limited to technical information about Your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to You (if any) related to the Licensed Application.
+All data treated by the Application Provider shall be in compliance with EU Reg n. 679/2016, Swiss privacy laws and Application Provider’s privacy policy, as linked on the Licensed Application’s App Store page.
+Application Provider may use any information, as long as it is in a form that does not personally identify You, to improve its products or to provide services or technologies to You.
+
+c. Termination
+
+This EULA shall commence on the date that you accept the same expressly or install or otherwise use the Licensed Application and shall end on the date of your disposal of the Licensed Application, save for earlier termination in accordance with this agreement. It is understood that the validity of this EULA and the validity of any purchase associated to the Licensed Application shall be construed independently from each other, this meaning that (i) the termination of such associated purchase shall not affect the validity of this EULA and (ii) the termination of this EULA shall not affect the validity of such associated purchase.
+Your rights under this license will terminate automatically without notice from the Application Provider if You attempt to circumvent any technical protection measures used in connection with the Licensed Application and/or Services or you otherwise use the Licensed Application and/or Services in breach of the terms of this EULA. Upon termination of the license, You shall cease all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.
+
+d. Services and Third Party Materials
+
+The Licensed Application may enable access to Application Provider’s and third party services and web sites (collectively and individually, “Services”). Use of the Licensed Application and/or the Services may require Internet access and/or third party Services. In any case, the cost related to Internet access and third party Services – as well as any liability related to the above – shall be borne exclusively by You.
+The Licensed Application may also enable access to certain virtual goods to be used within the Licensed Application and/or the Services. The purchase of these virtual goods shall be final and non-refundable and you acknowledge that, save if expressly allowed, the transfer of the same is prohibited. You acknowledge that (i) the Application Provider may modify or eliminate virtual goods at any time, without notice, and (ii) in case of termination of this EULA, you will have no right on the virtual goods for any reason whatsoever.
+You understand that by using any of the Services, You may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language, and that the results of any search or entering of a particular URL may automatically and unintentionally generate links or references to objectionable material. Nevertheless, You agree to use the Services at Your sole risk and that the Application Provider shall not have any liability to You for content that may be found to be offensive, indecent, or objectionable.
+Certain Services may display, include or make available content, data, information, applications or materials from third parties (“Third Party Materials”) or provide links to certain third party web sites. By using the Services, You acknowledge and agree that the Application Provider is not responsible for examining or evaluating the content, accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect of such Third Party Materials or web sites. The Application Provider does not warrant or endorse and does not assume and will not have any liability or responsibility to You or any other person for any third-party Services, Third Party Materials or web sites, or for any other materials, products, or services of third parties. Third Party Materials and links to other web sites are provided solely as a convenience to You.
+Financial information displayed by any Services is for general informational purposes only and is not intended to be relied upon as investment advice. Before executing any securities transaction based upon information obtained through the Services, You should consult with a financial professional. Location data provided by any Services is for basic navigational purposes only and is not intended to be relied upon in situations where precise location information is needed or where erroneous, inaccurate or incomplete location data may lead to death, personal injury, property or environmental damage.
+Health information displayed by any Services is for general informational purposes only. No medical advice is provided by any Services, and the information should not be so construed or used. Using and/or accessing the Services and/or providing personal or medical information to the Application Provider or third-party Services providers does not create a physician-patient relationship between you and the Application Provider or third-party Services providers. Nothing contained in the Licensed Application is intended to create a physician-patient relationship, to replace the services of a licensed, trained physician or health professional or to be a substitute for medical advice of a physician or trained health professional licensed in your state or country. You should not rely on anything contained in the Licensed Application, and you should consult a physician licensed in your state or country in all matters relating to your health. By using the Services, you agree, represent and warrant that your physician has notified you that you are able to participate in wellness and fitness programs, workouts, exercises or any of the related activities made available to you in connection with the Services. Activities promoted by the Services may pose risks even to those who are currently in good health. You hereby agree that you shall not make any health or medical related decision based in whole or in part on anything contained in the Licensed Application. The Licensed Application (i) has not been tested with individuals with health conditions; (ii) does not provide clinical advice; (iii) shall not be intended to be a medical device or treatment and, therefore, (iv) has not been cleared or approved by any governmental body or any ministry of health of/under any jurisdiction.
+Neither the Application Provider, nor any of its content providers, guarantees the availability, accuracy, completeness, reliability, or timeliness of stock information or location data displayed by any Services.
+You agree that any Services contain proprietary content, information and material that is protected by applicable intellectual property and other laws, including but not limited to copyright, and that You will not use such proprietary content, information or materials in any way whatsoever except for permitted use of the Services. No portion of the Services may be reproduced in any form or by any means. You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works based on the Services, in any manner, and You shall not exploit the Services in any unauthorized way whatsoever, including but not limited to, by trespass or burdening network capacity. You further agree not to use the Services in any manner to harass, abuse, stalk, threaten, defame or otherwise infringe or violate the rights of any other party, and that the Application Provider is not in any way responsible for any such use by You, nor for any harassing, threatening, defamatory, offensive or illegal messages or transmissions that You may receive as a result of using any of the Services.
+In addition, third party Services and Third Party Materials that may be accessed from, displayed on or linked to from your Apple iOS device are not available in all languages or in all countries. The Application Provider makes no representation that such Services and Materials are appropriate or available for use in any particular location. To the extent You choose to access such Services or Materials, You do so at Your own initiative and are responsible for compliance with any applicable laws, including but not limited to applicable local laws. The Application Provider, and its licensors, reserve the right to change, suspend, remove, or disable access to any Services at any time without notice. In no event will the Application Provider be liable for the removal of or disabling of access to any such Services. The Application Provider may also impose limits on the use of or access to certain Services, in any case and without notice or liability.
+
+e. Ownership
+
+The Application Provider and/or its licensor retain all right, title and interest in and to the Licensed Application, the Services and any content of the same, including, but not limited to, all copyrights, trademarks, trade secrets, trade names, proprietary rights, patents, titles, computer codes, audiovisual effects, themes, characters, characters names, stories, dialog, settings, artwork, sound effects, musical works, and moral rights whether registered or not and all applications thereof. You hereby acknowledge that no title or ownership in the Licensed Application, the Services and any content of the same is being transferred or assigned hereby and this EULA is not to be construed as a sale of any rights in the same.
+ 
+All designs, features, files, documents and content included in the applications, are the property of Sharp Forks LTD. Any unauthorized use will lead to a penalty of $100,000 per used file, document or feature. 
+
+f. Content Restrictions
+
+You are solely responsible for the content that you publish or display (hereinafter, “post”) on/trough the Licensed Application and/or the Service, or transmit to other users. You will not post or transmit to other users in any way whatsoever, any defamatory, inaccurate, abusive, obscene, profane, offensive, sexually explicit, threatening, harassing, racially offensive, or illegal material, or any material that infringes or violates another party’s rights (including, but not limited to, intellectual property rights, and rights of privacy and publicity). Any content You may create, draft, design or in any way produce using the Licenced Application is for Your personal and non-commercial use only.
+In case of breach of the previous obligations, You will be deemed liable and responsible for any damage or cost incurred or suffered by the Application Provider, Your profile on the Service will be permanently deleted and the greatest effort will be put into preventing you from rejoining the Service.
+To the extent not prohibited by law, in no event shall Application Provider be liable for any third party claim arising from your non-compliance with this EULA and/or any applicable law. You hereby undertake to indemnify and hold Application Provider harmless from any damage, loss, cost, fee borne by the same in relation to your non-compliance with this EULA and/or any third party claim in relation to Your use of Licensed Application and/or the Service (including the content that you publish or display).
+
+g. No Warranty
+
+You expressly acknowledge and agree that use of the Licensed Application and/or the Services is at your sole risk and that the entire risk as to satisfactory quality, performance, accuracy and effort is with you. To the maximum extent permitted by applicable law, the Licensed Application and any Services performed or provided by/via the Licensed Application are provided “as is” and “as available”, with all faults and without warranty of any kind, and application provider hereby disclaims all warranties and conditions with respect to the licensed application and any services, either express, implied or statutory, including, but not limited to, the implied warranties and/or conditions of merchantability, of satisfactory quality, of fitness for a particular purpose, of accuracy, of quiet enjoyment, and non-infringement of third party rights. Application Provider does not warrant against interference with your enjoyment of the licensed application, that the functions contained in, or services performed or provided by, the licensed application will meet your requirements, that the operation of the licensed application or services will be uninterrupted or error-free, or that defects in the licensed application or services will be corrected. No oral or written information or advice given by application provider or its authorized representative shall create a warranty. Should the Licensed Application or Services prove defective, you assume the entire cost of all necessary servicing, repair or correction.
+In any case, the Application Provider shall be the sole responsible for (i) addressing any claim relating the licensed application and/or the services, including any third party’s intellectual property claim; and (ii) providing any maintenance and support service with respect to the licensed application as required under this EULA and/or applicable law.
+It is understood that in the event of any failure of the Licensed Application to conform to any applicable warranties, You may notify Apple and require refund of the purchase price of the Licensed Application.
+
+h. Limitation of Liability
+
+To the extent not prohibited by law, in no event shall Application Provider, or its licensor, be liable for personal injury, or any incidental, special, indirect or consequential damages whatsoever, including, without limitation, damages for loss of profits, loss of data, business interruption or any other commercial damages or losses, arising out of or related to your use or inability to use the licensed application, however caused, regardless of the theory of liability (contract, tort or otherwise) and even if application provider has been advised of the possibility of such damages.
+In no event shall Application Provider’s total liability to You for all damages (other than as may be required by applicable law in cases involving personal injury) exceed the amount of fifty dollars ($50.00). The foregoing limitations will apply even if the above stated remedy fails of its essential purpose.
+
+i. Legal compliance
+
+You may not use or otherwise export or re-export the Licensed Application except as authorized by Swiss law or United States law and the laws of the jurisdiction in which the Licensed Application was obtained. In particular, but without limitation, the Licensed Application may not be exported or re-exported (a) into any U.S. embargoed countries or (b) to anyone on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List.
+By using the Licensed Application, you represent and warrant that you are not located in any such country or on any such list. You also agree that you will not use these products for any purposes prohibited by Swiss law and/or United States law, including, without limitation, the development, design, manufacture or production of nuclear, missiles, or chemical or biological weapons.
+
+j. Miscellanea
+
+Application Provider may assign this EULA or any right set out herein, in whole or in part, without your consent, to any person or entity at any time with or without the Licensed Application. You may not assign or delegate any rights or obligations under this EULA without Application Provider’s previous consent, and any unauthorized assignment and delegation by you is void.
+Any failure by Application Provider to exercise or enforce any of its rights under this EULA does not waive its right to enforce such right. Any waiver of such rights shall only be effective if it is in writing and signed by an authorized representative of Application Provider.
+
+k. Subscriptions
+All renewable subscriptions work the following way. You tap the continue button in the subscription popup/window. You then confirm your subscription, which is either on a weekly, monthly or yearly basis. The subscription will renew and the amount will be debited from your account as long as you don’t turn off your subscription. You can do so by going to App Store, tapping the icon on the top right and then going to “Subscriptions”. You can also do it from your settings. In any case, you can ask us any question sharpforksltd@gmail.com and we will answer.
+l. Governing law and competent Court
+
+The laws of Switzerland, excluding its conflicts of law rules, shall govern this license and your use of the Licensed Application. Your use of the Licensed Application may also be subject to other local, state, national, or international laws.
+Any dispute, controversy or claim arising out of or relating to this EULA or the breach, termination or validity thereof shall be finally settled at Application Provider’s discretion (i) at your domicile’s competent Court; or (ii) at the Court of Geneva (Switzerland).</string>
+                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <fontDescription key="fontDescription" name="Muli-Regular" family="Muli" pointSize="15"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jeJ-tz-Sux" userLabel="Close">
+                    <rect key="frame" x="319" y="12" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="44" id="HUb-wN-slI"/>
+                        <constraint firstAttribute="height" constant="44" id="hKx-1S-0Od"/>
+                    </constraints>
+                    <state key="normal" image="crossVector">
+                        <color key="titleColor" red="0.054901960780000002" green="0.062745098040000002" blue="0.1450980392" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="onClose:" destination="-1" eventType="touchUpInside" id="HFA-Z5-qiz"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="jeJ-tz-Sux" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="12" id="A3Y-IL-Lj5"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="quu-SI-cHL" secondAttribute="trailing" id="CaW-fj-GUB"/>
+                <constraint firstItem="quu-SI-cHL" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="Ht9-XF-jJf"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="quu-SI-cHL" secondAttribute="bottom" id="It2-8c-ins"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="jeJ-tz-Sux" secondAttribute="trailing" constant="12" id="MK8-EV-Jc2"/>
+                <constraint firstItem="quu-SI-cHL" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" id="dUb-Wh-Qhr"/>
+            </constraints>
+            <point key="canvasLocation" x="53.600000000000001" y="48.125937031484263"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="crossVector" width="14" height="14"/>
+    </resources>
+</document>

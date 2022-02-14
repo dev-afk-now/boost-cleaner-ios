@@ -1,0 +1,15 @@
+
+//  Localizable.strings
+//  Boost Cleaner
+
+//  Created by HABIB on 11/10/2021.
+//  Copyright © 2021 Fresh Brain. All rights reserved.
+
+"CFBundleDisplayName" = "Boost Cleaner - 清理手机空间";
+"NSCameraUsageDescription" = "请允许访问您的相机，私人保险库的功能需要用到照相的功能。";
+"NSContactsUsageDescription" = "请允许访问您的通讯录，为了在进行清理时能够查找并清理您设备上的重复联系人。";
+"NSFaceIDUsageDescription" = "请允许访问您的生物识别来启用应用锁定。";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "请允许访问您的位置来检查测速的功能。";
+"NSLocationAlwaysUsageDescription" = "请允许访问您的位置来检查测速的功能。";
+"NSLocationWhenInUseUsageDescription" = "请允许访问您的位置来检查测速的功能。";
+"NSPhotoLibraryUsageDescription" = "请允许访问您的所有照片，为了在进行清理时能够查找并清理您设备上的相似照片。";
