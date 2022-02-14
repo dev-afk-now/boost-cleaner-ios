@@ -110,7 +110,7 @@ class MissingNameVC: UIViewController ,CNContactViewControllerDelegate{
             let mutableContact = contact.mutableCopy() as! CNMutableContact
             
             
-            deleteContact(Contact: mutableContact ) { (result) in
+            deleteContact(mutableContact ) { (result) in
                 switch result{
                 case .success(response: let bool):
                     if bool{

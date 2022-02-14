@@ -106,7 +106,7 @@ class AllContactsVC: UIViewController ,CNContactViewControllerDelegate{
             let mutableContact = contact.mutableCopy() as! CNMutableContact
             
             
-            deleteContact(Contact: mutableContact ) { (result) in
+            deleteContact(mutableContact ) { (result) in
                 switch result{
                 case .success(response: let bool):
                     if bool{
@@ -161,7 +161,7 @@ class AllContactsVC: UIViewController ,CNContactViewControllerDelegate{
         }
     }
     func FetchAllNumber(){
-        fetchContacts(completionHandler: { (result) in
+        fetchContacts({ (result) in
             switch result{
             
             case .success(response: let contacts):

@@ -152,6 +152,8 @@
 		CAB5C48327842B8400687A2C /* Purchases in Frameworks */ = {isa = PBXBuildFile; productRef = CAB5C48227842B8400687A2C /* Purchases */; };
 		CAB5C48627842BB600687A2C /* AppsFlyerLib in Frameworks */ = {isa = PBXBuildFile; productRef = CAB5C48527842BB600687A2C /* AppsFlyerLib */; };
 		CAB5C48927842C9200687A2C /* Amplitude in Frameworks */ = {isa = PBXBuildFile; productRef = CAB5C48827842C9200687A2C /* Amplitude */; };
+		D57C82E127BA69A400A3A9EB /* CocoaImageHashing.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D57C82E027BA69A400A3A9EB /* CocoaImageHashing.framework */; };
+		D57C82E527BAA5EE00A3A9EB /* MediaComparatorService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57C82E427BAA5EE00A3A9EB /* MediaComparatorService.swift */; };
 		FA0601A3255277A900247BDD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA0601A2255277A900247BDD /* GoogleService-Info.plist */; };
 		FA3AEFFC271DB04A0058434D /* 二.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FA3AEFF8271DB0490058434D /* 二.mp4 */; };
 		FA3AEFFD271DB04A0058434D /* 四.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FA3AEFF9271DB0490058434D /* 四.mp4 */; };
@@ -344,6 +346,8 @@
 		CA9BF47126D7C50900186F8A /* permission_alert_bg_for_iphone7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = permission_alert_bg_for_iphone7.png; sourceTree = "<group>"; };
 		CE59CFBF863D37B7CC6EFE4F /* Pods-Boost Cleaner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Boost Cleaner.release.xcconfig"; path = "Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner.release.xcconfig"; sourceTree = "<group>"; };
 		D57C82DD27BA610A00A3A9EB /* PinterestLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = PinterestLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D57C82E027BA69A400A3A9EB /* CocoaImageHashing.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = CocoaImageHashing.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D57C82E427BAA5EE00A3A9EB /* MediaComparatorService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaComparatorService.swift; sourceTree = "<group>"; };
 		D81D809C1151C2F0D26366C2 /* Pods-Boost Cleaner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Boost Cleaner.debug.xcconfig"; path = "Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner.debug.xcconfig"; sourceTree = "<group>"; };
 		FA0601A2255277A900247BDD /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		FA3AEFF8271DB0490058434D /* 二.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "二.mp4"; sourceTree = "<group>"; };
@@ -386,6 +390,7 @@
 				CA0D883F258097AD000FDE91 /* AdSupport.framework in Frameworks */,
 				CA7AF19A2609FEC60019960F /* FacebookCore in Frameworks */,
 				A1BD057E256CD87000EC8E18 /* AVFoundation.framework in Frameworks */,
+				D57C82E127BA69A400A3A9EB /* CocoaImageHashing.framework in Frameworks */,
 				CAB5C48327842B8400687A2C /* Purchases in Frameworks */,
 				0EEE0DF199DAED2B8C083831 /* Pods_Boost_Cleaner.framework in Frameworks */,
 			);
@@ -986,6 +991,7 @@
 				FAF81201255044D400C77F3D /* PaymentManager.swift */,
 				FA992BEF2541B51700AA5941 /* EventManager.swift */,
 				FAD7D45B2536D018009A55FE /* AppSetting.swift */,
+				D57C82E427BAA5EE00A3A9EB /* MediaComparatorService.swift */,
 			);
 			path = Manager;
 			sourceTree = "<group>";
@@ -1118,6 +1124,7 @@
 		C0895FF8B95FF4F57B3693EE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D57C82E027BA69A400A3A9EB /* CocoaImageHashing.framework */,
 				D57C82DD27BA610A00A3A9EB /* PinterestLayout.framework */,
 				CA0D8842258097BD000FDE91 /* StoreKit.framework */,
 				CA0D8840258097B5000FDE91 /* iAd.framework */,
@@ -1512,6 +1519,7 @@
 				8E8D8DA72756940B00EE8E47 /* IGCommon.swift in Sources */,
 				A18FFA682536DA07009D6835 /* ScreenshotsphotosVC.swift in Sources */,
 				8E8D8DC42756B05500EE8E47 /* SegmentedProgressBar.swift in Sources */,
+				D57C82E527BAA5EE00A3A9EB /* MediaComparatorService.swift in Sources */,
 				A102C681252D91B400E85196 /* VideoTableViewCell.swift in Sources */,
 				8E8D8D9B2756940B00EE8E47 /* IGStory.swift in Sources */,
 				FAB349C52716FC870018E439 /* CrossAppAdCell.swift in Sources */,
@@ -1745,13 +1753,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Boost Cleaner/Boost Cleaner.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 9;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 4CL5R3VX34;
+				DEVELOPMENT_TEAM = Z7W5FG75SL;
 				ENABLE_BITCODE = NO;
-				EXCLUDED_ARCHS = "arm64 x86_64-apple-ios-simulator";
+				EXCLUDED_ARCHS = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk",
@@ -1916,6 +1925,54 @@
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk",
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk",
 				);
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CDAlertView/CDAlertView.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Charts/Charts.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/CircleProgressView/CircleProgressView.framework/Headers\"",
+					"${PODS_ROOT}/CocoaImageHashing",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/EzPopup/EzPopup.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseABTesting/FirebaseABTesting.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCore/FirebaseCore.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCoreDiagnostics/FirebaseCoreDiagnostics.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseCrashlytics/FirebaseCrashlytics.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseDatabase/FirebaseDatabase.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInstallations/FirebaseInstallations.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseRemoteConfig/FirebaseRemoteConfig.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GoogleDataTransport/GoogleDataTransport.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/GoogleUtilities/GoogleUtilities.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/IHProgressHUD/IHProgressHUD.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ImageScrollView/ImageScrollView.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ImageSlideshow/ImageSlideshow.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/JGProgressHUD/JGProgressHUD.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Localize/Localize.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/MSPeekCollectionViewDelegateImplementation/MSPeekCollectionViewDelegateImplementation.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/PinterestLayout/PinterestLayout.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/PromisesObjC/FBLPromises.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/PryntTrimmerView/PryntTrimmerView.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/ReachabilitySwift/Reachability.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Realm/Realm.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift/RealmSwift.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SDWebImage/SDWebImage.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SDWebImagePhotosPlugin/SDWebImagePhotosPlugin.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SteviaLayout/Stevia.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SwiftyContacts/SwiftyContacts.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SwiftyGif/SwiftyGif.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SwiftyStoreKit/SwiftyStoreKit.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/SystemServices/SystemServices.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/Toast-Swift/Toast_Swift.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/UIColor_Hex_Swift/UIColor_Hex_Swift.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/UIView+Shake/UIView_Shake.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/YPImagePicker/YPImagePicker.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/leveldb-library/leveldb.framework/Headers\"",
+					"\"${PODS_CONFIGURATION_BUILD_DIR}/nanopb/nanopb.framework/Headers\"",
+					"\"${PODS_ROOT}/Headers/Public\"",
+					"\"${PODS_ROOT}/Headers/Public/Firebase\"",
+					"$(inherited)",
+					"${PODS_ROOT}/Firebase/CoreOnly/Sources",
+					"\"${PODS_TARGET_SRCROOT}/Sources/FBLPromises/include\"",
+				);
 				INFOPLIST_FILE = "Boost Cleaner/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1927,9 +1984,10 @@
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk/TenjinSDK",
 				);
 				MARKETING_VERSION = 4.0.3;
-				PRODUCT_BUNDLE_IDENTIFIER = Suntechltd.Phuongnga.Boost;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = Suntechltd.Phuongnga.Boostqw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Boost Dev Prov";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/Boost Cleaner/Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1942,13 +2000,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Boost Cleaner/Boost Cleaner.entitlements";
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 9;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 4CL5R3VX34;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
-				EXCLUDED_ARCHS = "arm64 x86_64-apple-ios-simulator";
+				EXCLUDED_ARCHS = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk",
@@ -2125,9 +2183,9 @@
 				);
 				MARKETING_VERSION = 4.0.3;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = Suntechltd.Phuongnga.Boost;
+				PRODUCT_BUNDLE_IDENTIFIER = Suntechltd.Phuongnga.Boostqw;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "Boost Dev Prov";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/Boost Cleaner/Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -2187,7 +2245,7 @@
 			repositoryURL = "https://github.com/amplitude/Amplitude-iOS";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 8.0.0;
+				minimumVersion = 8.8.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */

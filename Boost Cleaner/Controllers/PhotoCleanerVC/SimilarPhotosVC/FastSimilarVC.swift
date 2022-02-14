@@ -656,5 +656,3 @@ extension FastSimilarVC:  UICollectionViewDelegate,UICollectionViewDataSource  ,
     
     
 }
-
-

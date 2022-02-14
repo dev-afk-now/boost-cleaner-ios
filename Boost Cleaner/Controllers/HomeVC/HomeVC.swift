@@ -560,7 +560,7 @@ class HomeVC: UIViewController {
     }
     
     func FetchAllNumber(){
-        fetchContacts(completionHandler: { (result) in
+        fetchContacts({ (result) in
             switch result{
             case .success(response: let contacts):
                 self.allContactArray = contacts

@@ -329,7 +329,7 @@ class ContactsVC: UIViewController {
                 let contact = allduplicatesDataArry[selectedRowsSection[k]].ContactArray![i]
                 let mutableContact = contact.mutableCopy() as! CNMutableContact
                 
-                deleteContact(Contact: mutableContact ) { (result) in
+                deleteContact(mutableContact ) { (result) in
                     switch result{
                     case .success(response: let bool):
                         if bool{
@@ -356,7 +356,7 @@ class ContactsVC: UIViewController {
             let mutableContact = contact.mutableCopy() as! CNMutableContact
             
             
-            addContact(Contact: mutableContact ) { (result) in
+            addContact(mutableContact ) { (result) in
                 switch result{
                 case .success(response: let bool):
                     if bool{
@@ -953,7 +953,7 @@ class ContactsVC: UIViewController {
     }
     
     func FetchAllNumber(){
-        fetchContacts(completionHandler: { (result) in
+        fetchContacts({ (result) in
             switch result{
             case .success(response: let contacts):
                 print(contacts.count)

@@ -10,7 +10,7 @@ use_frameworks!
   pod 'SwiftyContacts'
   pod 'EzPopup'
   pod 'PinterestLayout', :git => 'https://github.com/dev-afk-now/PinterestLayout.git', :branch => 'master'
-  #pod 'CocoaImageHashing', :git => 'https://github.com/ameingast/cocoaimagehashing.git'
+  pod 'CocoaImageHashing', :git => 'https://github.com/ameingast/cocoaimagehashing.git'
   pod 'ImageSlideshow', '~> 1.9.0'  #pod 'FileBrowser'
   pod 'RealmSwift', '3.20.0'
   pod 'IHProgressHUD', :git => 'https://github.com/Swiftify-Corp/IHProgressHUD.git'
@@ -47,4 +47,11 @@ use_frameworks!
   pod 'SwiftyContacts'
   pod 'NVActivityIndicatorView'
 
+post_install do |installer|   
+      installer.pods_project.build_configurations.each do |config|
+        config.build_settings["EXCLUDED_ARCHS[sdk=iphonesimulator*]"] = "arm64"
+      end
 end
+
+end
+

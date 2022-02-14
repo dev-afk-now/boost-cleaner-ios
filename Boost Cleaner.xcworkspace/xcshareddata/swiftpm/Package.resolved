@@ -6,8 +6,17 @@
         "repositoryURL": "https://github.com/amplitude/Amplitude-iOS",
         "state": {
           "branch": null,
-          "revision": "b8a0d51fd414db206050ac83806795a8fab6f447",
-          "version": "8.7.1"
+          "revision": "e402b0bc1305158b41a9a296defa77031e718de4",
+          "version": "8.8.0"
+        }
+      },
+      {
+        "package": "analytics-connector-ios",
+        "repositoryURL": "https://github.com/amplitude/analytics-connector-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "b44981119e2efc0edd1d2e26831c3c4c0e0264e6",
+          "version": "1.0.0"
         }
       },
       {
