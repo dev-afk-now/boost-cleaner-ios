@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EEE0DF199DAED2B8C083831 /* Pods_Boost_Cleaner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F4EED20613DC4332D4A0CA4 /* Pods_Boost_Cleaner.framework */; };
 		8E0A6892270AC54C001283AD /* CrossAppsPopupView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E0A6891270AC54C001283AD /* CrossAppsPopupView.xib */; };
 		8E0A6894270AE4A9001283AD /* CrossAppsPopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0A6893270AE4A9001283AD /* CrossAppsPopupView.swift */; };
 		8E0A6897270B1642001283AD /* CrossAppsColCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0A6895270B1642001283AD /* CrossAppsColCell.swift */; };
@@ -109,7 +110,6 @@
 		A1A0FC0A251A059500016900 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1A0FC09251A059500016900 /* Assets.xcassets */; };
 		A1A0FC0D251A059500016900 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1A0FC0B251A059500016900 /* LaunchScreen.storyboard */; };
 		A1BD057E256CD87000EC8E18 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A187011425557F610092C57F /* AVFoundation.framework */; };
-		A1BD0586256CD87900EC8E18 /* Pods_Boost_Cleaner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254072C9761AF1ADFA49FECF /* Pods_Boost_Cleaner.framework */; };
 		A1C23342252B1D7B001565C6 /* AlterSuccessMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C23341252B1D7B001565C6 /* AlterSuccessMerge.swift */; };
 		A1C2334D252B2882001565C6 /* AllVideoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C2334C252B2882001565C6 /* AllVideoVC.swift */; };
 		A1C23350252B2ABD001565C6 /* VideosModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1C2334F252B2ABD001565C6 /* VideosModel.swift */; };
@@ -178,16 +178,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		A1D18A89256BE94500A22B95 /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 12;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		A1E9829C2535E2C7005EF1B4 /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -204,8 +194,7 @@
 		18F4851E2771BAF200CC1B21 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		18F485202771BAF200CC1B21 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		18F485722771BF4700CC1B21 /* CleanerWidgetsExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CleanerWidgetsExtension.entitlements; sourceTree = "<group>"; };
-		254072C9761AF1ADFA49FECF /* Pods_Boost_Cleaner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Boost_Cleaner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2C0A9DE97A2AE8311F10F437 /* Pods-Boost Cleaner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Boost Cleaner.release.xcconfig"; path = "Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner.release.xcconfig"; sourceTree = "<group>"; };
+		5F4EED20613DC4332D4A0CA4 /* Pods_Boost_Cleaner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Boost_Cleaner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E023FD7276B741600C89E30 /* Intents.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Intents.framework; path = System/Library/Frameworks/Intents.framework; sourceTree = SDKROOT; };
 		8E0A6891270AC54C001283AD /* CrossAppsPopupView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CrossAppsPopupView.xib; sourceTree = "<group>"; };
 		8E0A6893270AE4A9001283AD /* CrossAppsPopupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrossAppsPopupView.swift; sourceTree = "<group>"; };
@@ -250,7 +239,6 @@
 		8EE6670D27023B720041D1EC /* AllPhotosVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllPhotosVC.swift; sourceTree = "<group>"; };
 		8EF9A0C926FA387D00248583 /* PHPhotoLibraryExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PHPhotoLibraryExtension.swift; sourceTree = "<group>"; };
 		8EF9A0CB26FA3B3600248583 /* PermissionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermissionManager.swift; sourceTree = "<group>"; };
-		9726DA5279487B98B5156B16 /* Pods-Boost Cleaner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Boost Cleaner.debug.xcconfig"; path = "Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner.debug.xcconfig"; sourceTree = "<group>"; };
 		A102C62F252D857100E85196 /* SimilarVideoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimilarVideoVC.swift; sourceTree = "<group>"; };
 		A102C633252D876900E85196 /* SimilarVideoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimilarVideoModel.swift; sourceTree = "<group>"; };
 		A102C680252D91B400E85196 /* VideoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoTableViewCell.swift; sourceTree = "<group>"; };
@@ -354,6 +342,9 @@
 		CA7833932747751000264040 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CA96DD18271773E70042CA54 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		CA9BF47126D7C50900186F8A /* permission_alert_bg_for_iphone7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = permission_alert_bg_for_iphone7.png; sourceTree = "<group>"; };
+		CE59CFBF863D37B7CC6EFE4F /* Pods-Boost Cleaner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Boost Cleaner.release.xcconfig"; path = "Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner.release.xcconfig"; sourceTree = "<group>"; };
+		D57C82DD27BA610A00A3A9EB /* PinterestLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = PinterestLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D81D809C1151C2F0D26366C2 /* Pods-Boost Cleaner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Boost Cleaner.debug.xcconfig"; path = "Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner.debug.xcconfig"; sourceTree = "<group>"; };
 		FA0601A2255277A900247BDD /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		FA3AEFF8271DB0490058434D /* 二.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "二.mp4"; sourceTree = "<group>"; };
 		FA3AEFF9271DB0490058434D /* 四.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "四.mp4"; sourceTree = "<group>"; };
@@ -395,8 +386,8 @@
 				CA0D883F258097AD000FDE91 /* AdSupport.framework in Frameworks */,
 				CA7AF19A2609FEC60019960F /* FacebookCore in Frameworks */,
 				A1BD057E256CD87000EC8E18 /* AVFoundation.framework in Frameworks */,
-				A1BD0586256CD87900EC8E18 /* Pods_Boost_Cleaner.framework in Frameworks */,
 				CAB5C48327842B8400687A2C /* Purchases in Frameworks */,
+				0EEE0DF199DAED2B8C083831 /* Pods_Boost_Cleaner.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1127,14 +1118,15 @@
 		C0895FF8B95FF4F57B3693EE /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D57C82DD27BA610A00A3A9EB /* PinterestLayout.framework */,
 				CA0D8842258097BD000FDE91 /* StoreKit.framework */,
 				CA0D8840258097B5000FDE91 /* iAd.framework */,
 				CA0D883E258097AD000FDE91 /* AdSupport.framework */,
 				A187011425557F610092C57F /* AVFoundation.framework */,
-				254072C9761AF1ADFA49FECF /* Pods_Boost_Cleaner.framework */,
 				8E023FD7276B741600C89E30 /* Intents.framework */,
 				18F4851E2771BAF200CC1B21 /* WidgetKit.framework */,
 				18F485202771BAF200CC1B21 /* SwiftUI.framework */,
+				5F4EED20613DC4332D4A0CA4 /* Pods_Boost_Cleaner.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1142,8 +1134,8 @@
 		CA4E2738DD3039BE632A1126 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				9726DA5279487B98B5156B16 /* Pods-Boost Cleaner.debug.xcconfig */,
-				2C0A9DE97A2AE8311F10F437 /* Pods-Boost Cleaner.release.xcconfig */,
+				D81D809C1151C2F0D26366C2 /* Pods-Boost Cleaner.debug.xcconfig */,
+				CE59CFBF863D37B7CC6EFE4F /* Pods-Boost Cleaner.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -1287,14 +1279,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A1A0FC11251A059500016900 /* Build configuration list for PBXNativeTarget "Boost Cleaner" */;
 			buildPhases = (
-				56A2835AF275CFD725FFA99F /* [CP] Check Pods Manifest.lock */,
+				2F76EAEE55F7183CEC2F0A7F /* [CP] Check Pods Manifest.lock */,
 				A1A0FBF6251A059100016900 /* Sources */,
 				A1A0FBF7251A059100016900 /* Frameworks */,
 				A1A0FBF8251A059100016900 /* Resources */,
 				A1E9829C2535E2C7005EF1B4 /* Embed App Extensions */,
 				FA3F794E25513ED000420D25 /* ShellScript */,
-				0CF3D3F191B7111A67BFB5BF /* [CP] Embed Pods Frameworks */,
-				A1D18A89256BE94500A22B95 /* Embed Frameworks */,
+				7064B385374EAB179140D6A1 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -1394,24 +1385,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		0CF3D3F191B7111A67BFB5BF /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		56A2835AF275CFD725FFA99F /* [CP] Check Pods Manifest.lock */ = {
+		2F76EAEE55F7183CEC2F0A7F /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -1431,6 +1405,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7064B385374EAB179140D6A1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Boost Cleaner/Pods-Boost Cleaner-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FA3F794E25513ED000420D25 /* ShellScript */ = {
@@ -1750,9 +1741,8 @@
 		};
 		A1A0FC12251A059500016900 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9726DA5279487B98B5156B16 /* Pods-Boost Cleaner.debug.xcconfig */;
+			baseConfigurationReference = D81D809C1151C2F0D26366C2 /* Pods-Boost Cleaner.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Boost Cleaner/Boost Cleaner.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1761,6 +1751,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 4CL5R3VX34;
 				ENABLE_BITCODE = NO;
+				EXCLUDED_ARCHS = "arm64 x86_64-apple-ios-simulator";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk",
@@ -1947,9 +1938,8 @@
 		};
 		A1A0FC13251A059500016900 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2C0A9DE97A2AE8311F10F437 /* Pods-Boost Cleaner.release.xcconfig */;
+			baseConfigurationReference = CE59CFBF863D37B7CC6EFE4F /* Pods-Boost Cleaner.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Boost Cleaner/Boost Cleaner.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -1958,6 +1948,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 4CL5R3VX34;
 				ENABLE_BITCODE = NO;
+				EXCLUDED_ARCHS = "arm64 x86_64-apple-ios-simulator";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk",
@@ -2133,6 +2124,7 @@
 					"$(PROJECT_DIR)/Boost\\ Cleaner/sdk/TenjinSDK",
 				);
 				MARKETING_VERSION = 4.0.3;
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = Suntechltd.Phuongnga.Boost;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "Boost Dev Prov";
