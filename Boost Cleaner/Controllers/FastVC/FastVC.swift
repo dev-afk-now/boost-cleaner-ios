@@ -649,7 +649,7 @@ class FastVC: UIViewController {
             let totalInt = Float(countArray)
             let result  = (value2/totalInt)
             
-          
+//            #warning("cocoa image example")
             
             DispatchQueue.main.async {
                 let value2 = Double(i/5)
